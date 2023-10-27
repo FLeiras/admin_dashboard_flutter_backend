@@ -1,2 +1,3 @@
-# admin_dashboard_flutter_backend
-DB admin_dashboard_flutter
+# WebServer + RestServer
+
+Recuerden que deben de ejecutar ```npm install``` para reconstruir los módulos de Node.
